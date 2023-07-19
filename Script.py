@@ -10,11 +10,11 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/cinesandhadhii>CINE</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/+bTbibXWES_pmZGI1>HARSHA</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 <a href=https://t.me/cinesandhadhii>CINE</a>
-- 𝙳𝚎𝚟 <a href=https://t.me/cinesandhadhii>CINE</a>"""
+- 𝙳𝚎𝚟 <a href=https://t.me/+bTbibXWES_pmZGI1>CINE</a>
+- 𝙳𝚎𝚟 <a href=https://t.me/+bTbibXWES_pmZGI1>CINE</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/cinesandhadhii https://t.me/cinesandhadhii</code>
+<code>/batch https://t.me/+bTbibXWES_pmZGI1 https://t.me/+bTbibXWES_pmZGI1</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/cinesandhadhii><b>CINE</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/+bTbibXWES_pmZGI1><b>CINE</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/mr_MKN>Mr.MKN TG</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/+bTbibXWES_pmZGI1</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -188,7 +188,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/cinesandhadhii>CINE</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/+bTbibXWES_pmZGI1>HARSHA</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
@@ -334,7 +334,7 @@ Delete A Lot Of Messages From Groups!
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
+<code>/song CINE</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
 
